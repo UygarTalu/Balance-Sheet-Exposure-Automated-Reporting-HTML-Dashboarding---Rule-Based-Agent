@@ -1,2 +1,4 @@
 # Balance-Sheet-Exposure-Automated-Reporting-HTML-Dashboarding---Rule-Based-Agent
 Treasury Reporting automation tool for Balance Sheet Exposure analysis, designed to streamline master data updates, standardize account enrichment and classification, and generate a reporting-ready exposure workbook with audit-friendly process statistics.
+
+This project is a Python-based Balance Sheet Exposure Reporting engine developed for Treasury Reporting. It automates the consolidation and update of revaluation master data, integrates current and out-of-date source files, enriches account-level records using Chart of Accounts mappings, applies analysis classifications such as CONSIDERED and NOT_CONSIDERED, and generates a reporting-ready Excel output together with process statistics for control and traceability.
